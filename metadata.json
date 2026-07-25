@@ -1,0 +1,6 @@
+{
+  "name": "AI Plant Doctor",
+  "description": "AI-powered plant identification, disease detection, nutrient analysis, treatment recommendations, and care guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
